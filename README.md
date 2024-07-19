@@ -7,5 +7,5 @@
 ![Demo3](https://github.com/LeulBayesa/Dashboard-Images/blob/main/Staff.png)
 ![Demo4](https://github.com/LeulBayesa/Dashboard-Images/blob/main/Roles.png)
 
-![Demo5](https://github.com/LeulBayesa/Dashboard-Images/blob/main/Permissions\popup.png)
-![Demo6](https://github.com/LeulBayesa/Dashboard-Images/blob/main/add\equb.png)
+![Demo5](https://github.com/LeulBayesa/Dashboard-Images/blob/main/Permissions%20popup.png)
+![Demo6](https://github.com/LeulBayesa/Dashboard-Images/blob/main/add%20equb.png)
